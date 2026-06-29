@@ -31,63 +31,6 @@ scroll_list_customization {
 layout_action_executable_blocks {
 }
 
-element {
-  interactable = true
-  source = &b&lMMO &b&lRealms &c&ldoes &c&lnot feature the &6&lCOBBLEVERSE modpack or its content.%n%It's a &eseparate and &eunique &aCobblemon &rexperience.
-  source_mode = direct
-  shadow = true
-  scale = 0.8
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = 8602b07b-6762-4416-9b08-f84da7c1b285-1751567611005
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = true
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1080
-  sticky_anchor = false
-  anchor_point = top-right
-  x = -146
-  y = 30
-  width = 127
-  height = 57
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 7be7b943-5033-4ab8-974c-39a5262d1250-1751567611005
-  [loading_requirement_container_meta:7be7b943-5033-4ab8-974c-39a5262d1250-1751567611005] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-}
-
 vanilla_button {
   button_element_executable_block_identifier = bc860748-86ae-4949-8d03-7f22ae706742-1751567587037
   [executable_block:bc860748-86ae-4949-8d03-7f22ae706742-1751567587037][type:generic] = [executables:]
@@ -486,4 +429,3 @@ vanilla_button {
   is_hidden = false
   automated_button_clicks = 0
 }
-
