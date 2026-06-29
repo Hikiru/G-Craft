@@ -1,0 +1,13 @@
+name = "Puff Radio"
+filename = "PuffRadio1.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YLcccJCk/versions/kQo3ZR9T/PuffRadio1.5.zip"
+hash-format = "sha512"
+hash = "90029852e6e578398617fdf52a2ec63cc3f690f6fb54bed6e88e10afc1bdc76dcebdd46a8032ee49a398cd6ddf99b253d9517ab243fb19b140f31b02f517640f"
+
+[update]
+[update.modrinth]
+mod-id = "YLcccJCk"
+version = "kQo3ZR9T"
