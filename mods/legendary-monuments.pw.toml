@@ -1,0 +1,13 @@
+name = "Cobblemon: Legendary Monuments"
+filename = "legendarymonuments-fabric-8.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m6RyHSbV/versions/nzE0CTRV/legendarymonuments-fabric-8.0.2.jar"
+hash-format = "sha512"
+hash = "6fe74e0060b95b45fc81f00f5d2250cded37f1990904170262381e767aba90623042886ab9779ab2314496d1a52d6688f0e960bfa1599ab1fa26394169bd4cd7"
+
+[update]
+[update.modrinth]
+mod-id = "m6RyHSbV"
+version = "nzE0CTRV"
