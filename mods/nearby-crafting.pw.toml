@@ -1,0 +1,13 @@
+name = "Nearby Crafting"
+filename = "nearbycrafting-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DsjH66Cm/versions/CNSulzgD/nearbycrafting-1.0.3.jar"
+hash-format = "sha512"
+hash = "18f571f94cd134c00f5d30b0ecd5071e84c22e119ac1490ce8c59f0f8bd88519b03864223b76da29c6759db6677c73325e14602982fc58b933bef6af33203053"
+
+[update]
+[update.modrinth]
+mod-id = "DsjH66Cm"
+version = "CNSulzgD"

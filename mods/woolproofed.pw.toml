@@ -1,0 +1,13 @@
+name = "WoolProofed"
+filename = "woolproofed-1.21.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JN3gWtKd/versions/ML9FoRUs/woolproofed-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "d2123ffc039bc9c55a37eb71837d2c66c661ea9f3de24d4728a3190e43c3f36bda92836c8367ecf7bdfa9c19dc43ff2671c7a24e65a9019e8e6f6bee6616cc39"
+
+[update]
+[update.modrinth]
+mod-id = "JN3gWtKd"
+version = "ML9FoRUs"
