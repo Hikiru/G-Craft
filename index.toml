@@ -214,7 +214,7 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "0d6a9432fcfe526a3bf6da0658bccc445b0322ab5b4f253d56e760073eda5a46"
+hash = "aaf9cc37a133d15b32ec6fd7ffc0f51c631ccb8082605c5a55c9887d7c5371ce"
 
 [[files]]
 file = "config/customsplashscreen.json"
@@ -1716,7 +1716,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+hash = "93f989575eec26f333d4253f1af961983ba4d5179e1c3237b643836b40614a43"
 metafile = true
 
 [[files]]
@@ -2040,7 +2040,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "ebc2028adcda30978da8834b5bd20aa5bd4c4fbb1ab773474a6d848eb680fbad"
+hash = "0aee156d2192ac57826b8c350748568baf9fb896da553c8d2d9a7ab3fa80aec4"
 metafile = true
 
 [[files]]
@@ -2185,7 +2185,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+hash = "7d18cd82efa0ead489acba557973cc58047c071960d8449364dd52fccf9984e2"
 metafile = true
 
 [[files]]

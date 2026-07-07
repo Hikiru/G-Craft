@@ -12,7 +12,7 @@
     "detectDimensionData": true,
     "detectWorldData": true,
     "clientId": "450485984333660181",
-    "defaultIcon": "grass",
+    "defaultIcon": "g-spot.foo",
     "enableJoinRequests": false,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
@@ -40,7 +40,7 @@
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
       "default": {
-        "textOverride": "Playing on {server.motd.raw}"
+        "textOverride": "Playing on {server.name.raw}: {server.motd.raw}"
       }
     },
     "pingRateInterval": 5,
