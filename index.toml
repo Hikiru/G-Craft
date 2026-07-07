@@ -1914,6 +1914,11 @@ hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "0d10973de4466406d116a7c0d976c7c7830e65510ad06b6c83e72b0310e09ad4"
 metafile = true
@@ -1954,6 +1959,11 @@ hash = "6b7d8a2adb16b48dd3adf27f795c816eff5f5421f2b9fcb920e32363bc79b909"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "578fc88095dde3ea3fe6371c69c4fa789f2b5956229149aab5162463a929cbaa"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "c03848ab316f8f8e07656e08c675541ce90f0ad729d5b31df336fe8f27a58b3f"
 metafile = true
@@ -1961,6 +1971,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "e7a682a577780a52963a998f6941c13cbd75455a65368e9b665c56efca37cbb6"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "5c1b16bbf2308c87c81a713cac4b2e6c6796e854d5133281c759759375e02d94"
 metafile = true
 
 [[files]]
@@ -2101,6 +2116,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "88ce962f82ca2b6ab99ab546031a9406ff053a5078002134b43fe3ab22327e85"
 metafile = true
 
 [[files]]
@@ -2319,6 +2339,11 @@ hash = "d22546ad55b555931eb527f163b3564e00c12c7dc8101378b87447dfcc8e0652"
 metafile = true
 
 [[files]]
+file = "mods/reliable-name-tags.pw.toml"
+hash = "bd3cee04163e658cdf2c84084fde761b7135af6b57236c2427f977e6bf4222bf"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "9a4ff12a4484c242ae3c395ca7a363bf065fa45d2aa94ff2c31d3feebc23eea9"
 metafile = true
@@ -2364,6 +2389,11 @@ hash = "cf11a6410ad4097983f806684ac343085053eca1d4106f2b45d75147ae4b5f94"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "065a6c92f489bce0ef6b27f0b05acde22920c5f5f15414171890ec5ea375fe16"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
@@ -2404,6 +2434,11 @@ hash = "19385715a97149dd9449730e04b990c6f50986024db65b4830c306ff46e0eb05"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "00da2960ca396b98aee61d0b3b73bff01ed2ae22569df718f5f1028a04819bf6"
+metafile = true
+
+[[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
 hash = "6e06c71124bd06e1e489c9ad5034046a29344eddb599058d7c4cb2e5703bad1a"
 metafile = true
@@ -2431,6 +2466,11 @@ metafile = true
 [[files]]
 file = "mods/tmcraft.pw.toml"
 hash = "480dd12d946309eabf4fa0f01dd0a1c73efa3df5dddba36e23e4e47bc07e7400"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "b44e89cd6be4251903a0b128b0c49bb3dc5869159fe5ef273f441a0082ebe9fd"
 metafile = true
 
 [[files]]
