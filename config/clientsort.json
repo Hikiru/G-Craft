@@ -21,7 +21,13 @@
     "ctrlSortOrderStr": "alphabet",
     "altSortOrderStr": "rawId",
     "useStartOverrides": true,
-    "startOverrideItems": [],
+    "startOverrideItems": [
+      "rctmod:trainer_card",
+      "cobblemon:pokedex_red",
+      "cobbleversebadges:kanto_badge_box",
+      "minecraft:arrow",
+      "minecraft:bundle"
+    ],
     "useEndOverrides": true,
     "endOverrideItems": [],
     "playSoundSort": false,
@@ -125,9 +131,7 @@
         "matchTransferPolicy": "KEYBIND",
         "transferPolicy": "KEYBIND_BUTTON",
         "autoOpOther": false,
-        "ignoredSlots": [
-          0
-        ]
+        "ignoredSlots": [0]
       },
       "net.minecraft.class_1730": {
         "className": "net.minecraft.class_1730",
