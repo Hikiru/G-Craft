@@ -40,7 +40,7 @@
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
       "default": {
-        "textOverride": "Playing on {server.name.raw}: {server.motd.raw}"
+        "textOverride": "Playing on {server.name}: {server.motd.raw}"
       }
     },
     "pingRateInterval": 5,
