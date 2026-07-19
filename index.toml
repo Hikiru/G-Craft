@@ -8842,12 +8842,12 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "bbfc6a83fafa4e25f3033c09eb23bb342ee99193f8e5c5d848244ab3fcfa27e6"
+hash = "18fa6f64154a77fd1c02db2488b504ae0b38132a0b425f75be1c092b5728c31b"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "c40498e73b9866f2b8231678742b4078623debedb03f19b19326a64d7683d69b"
+hash = "02bef875ebc40a486e906a6af1bc9179dec850cdb8c9735211ff8e36cd655c72"
 metafile = true
 
 [[files]]
