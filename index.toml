@@ -569,10 +569,6 @@ file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
-file = "config/iris.properties"
-hash = "7f3126b80f896db1a0ac0957adfbce285c73ed40f20b7342d3b945cf234223da"
-
-[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
@@ -995,6 +991,10 @@ hash = "ab2ea60d9ca268578e72ab853ebaa409bb3c5524da1a532296f17d58f7a42ac3"
 [[files]]
 file = "config/zoomify.json"
 hash = "85d66170849e946150cc71eadb7c76a9a84516ee997a09bb8067d3735f5247a4"
+
+[[files]]
+file = "configureddefaults/iris.properties"
+hash = "7f3126b80f896db1a0ac0957adfbce285c73ed40f20b7342d3b945cf234223da"
 
 [[files]]
 file = "configureddefaults/options.txt"
