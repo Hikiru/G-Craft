@@ -249,6 +249,10 @@ file = "config/disabled_sounds.json"
 hash = "d8afbc367cdb54bc1af46248a826a7227eea4aca0db51e9cafd58a2b67742b9b"
 
 [[files]]
+file = "config/emotecraft.json"
+hash = "09eb174cb9ceb5a5f315a2edee7eb79eefb5ee91f6af18e0baf1edee2d77a315"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "e1440b2f4e3d4a0be2db9ee284b0ec8e0740aacc7bc97091b5be3817ffa1ebed"
 
@@ -998,7 +1002,7 @@ hash = "7f3126b80f896db1a0ac0957adfbce285c73ed40f20b7342d3b945cf234223da"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "573afe2999c9e0027f0ca215d6f2f61a7e98146e539d2d4cefc4ddfa44dafb12"
+hash = "e09cd6b3b5c3fd7f855d59e82c079e2caacbce7b7693c577954cab8cb614ce54"
 
 [[files]]
 file = "configureddefaults/servers.dat"
@@ -1039,6 +1043,218 @@ hash = "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af"
 [[files]]
 file = "datapacks/extra/COBBLEVERSE - No Hunger.zip"
 hash = "06de5f7ad7bd863cd6920334372053468a45c831eedb5b7991ac7a732efc6e8d"
+
+[[files]]
+file = "emotes/AMOGUS.emotecraft"
+hash = "07f8f382fe47d110bcf889e7dc32184ef70d343537cb5b35c7d9c4c1fdfe75bb"
+
+[[files]]
+file = "emotes/Aircraft.emotecraft"
+hash = "86c2fb393999029f28bdab7597caadb714131039c7891e3af9d1d278f3804a64"
+
+[[files]]
+file = "emotes/Ballet (Dance).emotecraft"
+hash = "a57ec6132911a74c5aab3efa8e5a3e71f54415f45d40898dd2184843618cf8eb"
+
+[[files]]
+file = "emotes/Beyond the way (Dance).emotecraft"
+hash = "620bab3751df6a7c08cffd8b1eda4762870809ab14683a30456ce15160f6dff7"
+
+[[files]]
+file = "emotes/Boogie Down (Dance).emotecraft"
+hash = "e2fdbf0e3040750a8894143cdb63137ef3c2a76d959e8517724922386a24d265"
+
+[[files]]
+file = "emotes/Boy With Luv (Dance).emotecraft"
+hash = "e54a61ccf9b3c34d79c3c80dd57809ef25c7abbf04769874a80bfb940191b3fd"
+
+[[files]]
+file = "emotes/California Girls.emotecraft"
+hash = "c38af3f577aac4e5a9e9e0972c81788542d8fe7f7fe947830c488b465451ef5f"
+
+[[files]]
+file = "emotes/Depression.emotecraft"
+hash = "ebd5eb30b28799aebeadde6cf2f933cf93391bef0725d66b9082ecb55bbb87c4"
+
+[[files]]
+file = "emotes/Dragged down.emotecraft"
+hash = "e09ace3e06ba0b0f914c7a9fa2b0e02439c869ba037c970ca3df436acf433150"
+
+[[files]]
+file = "emotes/Emerge.emotecraft"
+hash = "4060a8d3484ffe309be3680d1ee702e38771aa6cc597d111cd2bdfa629305a4d"
+
+[[files]]
+file = "emotes/Envy Baby (Dance).emotecraft"
+hash = "fe9a84eb65e5710bbeaf8f439dd8a28cdb4d6a5c5bd754e18df19c973fc643a3"
+
+[[files]]
+file = "emotes/Fall apart.emotecraft"
+hash = "53ce130e7e80728160eb420b6bb592c6be4866123fa5bdd6737d417a07643aa8"
+
+[[files]]
+file = "emotes/Fall like a drunk.emotecraft"
+hash = "a6fbd3a8c0efc8c43380672327ceff9939ec0bf3984c9fb41a020f9f183108d5"
+
+[[files]]
+file = "emotes/Flying on the sword (Movement).emotecraft"
+hash = "21703414748c94a0183ec493d128867a12d0f239f8227ae645e8422b55a3c214"
+
+[[files]]
+file = "emotes/Foot Tapping (Dance).emotecraft"
+hash = "26b20a7f270a6ee8e06cc5f6d5283abaa77b1c081f72e8904e5d99a58bbb3894"
+
+[[files]]
+file = "emotes/Front flip.emotecraft"
+hash = "926a77303a60708d6d54b4e7c4d05fdb205187e8bca11cdf2890e33fb1b6159f"
+
+[[files]]
+file = "emotes/Gang Torture Dance (Dance) (Multiverse) (JoJo).emotecraft"
+hash = "227ec6b0b68a28e27a6444bde50d47f2b24c4ef3460ea9651dcc9be2ec2a1fd4"
+
+[[files]]
+file = "emotes/Gangnam Style (Cycle Dance).emotecraft"
+hash = "da811eae3411a7831e60292d32dc3ccba3ed5bf2d4de95e988171d0cce49d54c"
+
+[[files]]
+file = "emotes/Gangnam Style (Full Dance).emotecraft"
+hash = "9a397938036571084161fef5d6b599430d304f9739e639d6bbbf1b82b427cdf0"
+
+[[files]]
+file = "emotes/Get Griddy (Dance).emotecraft"
+hash = "aa4e274ce403dd8f47605d7e08129f3633b792fde6153e87fec7a6c5308ec127"
+
+[[files]]
+file = "emotes/Go crazy.emotecraft"
+hash = "969228f5711d7ee53269a59cec261d5066e4086a087dc1374be48b9a1dbf3758"
+
+[[files]]
+file = "emotes/Hands on vacation (Dance).emotecraft"
+hash = "c0cf5f0cc88eaef93ff9e493097fccc321cfef21228b47d6f1824451229d7c45"
+
+[[files]]
+file = "emotes/Helicopter.emotecraft"
+hash = "3514b0fde41dbeed196c2a538879958677208bfd2943bd279a89e110affa4ed5"
+
+[[files]]
+file = "emotes/Hopelessly fall to the knees.emotecraft"
+hash = "0aa02e99403f5e40908a43f0bcd5adefb8006eb35bd52c76eb2cf70a5832f046"
+
+[[files]]
+file = "emotes/Jiggle your ass (Dance).emotecraft"
+hash = "5f57a91dfbab9bc8a02f66d6c8a5363dcd7a7b60efeb8ab9b48c23f66aa144b4"
+
+[[files]]
+file = "emotes/Jumpstyle (Dance).emotecraft"
+hash = "456cef46b74efbf443f6a203427b13aacf04ed58090dcbffe52363a643854ffd"
+
+[[files]]
+file = "emotes/Just Dance (Dance).emotecraft"
+hash = "1860bc3d02f7ca26a72efdba7583764fdbffb5998cae275d98afa21aac72a180"
+
+[[files]]
+file = "emotes/Lethal Dance.emotecraft"
+hash = "a1aa4b629b68f0ccb5ac93907050ea6f13cdc1a2b71a0eb33bd554ceb868e63a"
+
+[[files]]
+file = "emotes/Macarena (Dance).emotecraft"
+hash = "63d609238cf5527f872ca43e2d5aeb1ec8f75cf5b9a4ceba6e314e9ceead08b3"
+
+[[files]]
+file = "emotes/Mouse-Sosisk.emotecraft"
+hash = "49708e0892c2b47b1b844cb8b4ee75afede84467c14e2ae2717b90218259c7ef"
+
+[[files]]
+file = "emotes/Nervous Sit.emotecraft"
+hash = "21b4aff6b655e901a11797e8fae77e02cd4cca3e01232bd9b880145fb25a0d7d"
+
+[[files]]
+file = "emotes/Not Responsible (Dance).emotecraft"
+hash = "0b0f885d0d05e27af0a1c73f629fbe1b1bccb69fd3961adbf9ba5e99c1f20427"
+
+[[files]]
+file = "emotes/Pearl (Dance).emotecraft"
+hash = "12358e4e8069f09b0a2df7022ff6d133014ca9f92b11cb6ff5e44d8d829f1330"
+
+[[files]]
+file = "emotes/Pee.emotecraft"
+hash = "3eb99716421a33d8aeffcfbd6d9668eee7a94fbf55d5aaea03e9c06cc25cae57"
+
+[[files]]
+file = "emotes/Phit Hon (Dance).emotecraft"
+hash = "67c5b08a66e49903e75f89262311abd0a5d91955c2fc7d6de7e697526f7e97ce"
+
+[[files]]
+file = "emotes/Pirouette (Dance).emotecraft"
+hash = "b0d57f38a3b60faab9d8285dc8da1b7c021812ad21828ea30ee06c52b9bd0581"
+
+[[files]]
+file = "emotes/Plus Boy (Dance).emotecraft"
+hash = "6b86223dc3f683bc99c7135ce0a396e9e2f638c08587094f7fac5d010a154f09"
+
+[[files]]
+file = "emotes/Quick break (Dance).emotecraft"
+hash = "91818ae980cb29808e5651b003f07d2a2a13657144d28eae55de5ebd0ad1aff2"
+
+[[files]]
+file = "emotes/Rasputin (Dance).emotecraft"
+hash = "a82561cc7c7616be01e409cf98775a81461fbb0ad6081ad4481bdbc35b321542"
+
+[[files]]
+file = "emotes/Rat Dance 1.2.emotecraft"
+hash = "933d939e36a9e95151053cd90d616b8d1319bf6114f615424be6ad77b505b091"
+
+[[files]]
+file = "emotes/Slick Back (Dance) (Movement).emotecraft"
+hash = "782e39fbd042eec4033c37433544033cf963d672b6fefa35cfcb7ca3263c3b59"
+
+[[files]]
+file = "emotes/Slow Hands (Dance).emotecraft"
+hash = "04380c6b09e7bbfc89099e6d2a1f95646d2824b13278e7689b47c8a35880c9cf"
+
+[[files]]
+file = "emotes/Slow movements (Dance).emotecraft"
+hash = "6dad23626e41f49007a53cb932e97f465bf2280561338fd18982ee3e553ab7ab"
+
+[[files]]
+file = "emotes/Stretch.emotecraft"
+hash = "52626df3d869175e85541b40644bdd64a916e05726843d64a735471c25b1c348"
+
+[[files]]
+file = "emotes/Tank.emotecraft"
+hash = "efc5b2c907e9138bc9d975c3edeaba82ffd4a372fa72fb1c99aecd91c66890d5"
+
+[[files]]
+file = "emotes/Tumbler (Dance).emotecraft"
+hash = "1b3b177b0f63bf4398457d6c17c3c2db0bc9c61e614ff74ea6b56cc0a00b0921"
+
+[[files]]
+file = "emotes/Tweakin.emotecraft"
+hash = "fc1f9edef032239aa80f824a63377ffd8998003328e1ee599255c7187f40cdc7"
+
+[[files]]
+file = "emotes/Twist your head like a basketball.emotecraft"
+hash = "468a907983386a152013541f620ab8a190102e34fbcae1c7fcfad0eb7b66d436"
+
+[[files]]
+file = "emotes/Waltz (Dance) (1st Partner) (Paired emote).emotecraft"
+hash = "ba2677067592246a220a667b4bf2e9adb7002cf6a6d8b7ce3ff65f5c2cc87405"
+
+[[files]]
+file = "emotes/Waltz (Dance) (2nd Partner) (Paired emote).emotecraft"
+hash = "2ee5cc7ef5cf2c2c9f010faf9603c5669e71dd5f307a55d51111003aff8bd6d0"
+
+[[files]]
+file = "emotes/blow kiss.emotecraft"
+hash = "e4e1998df50730cea768368b26c3263fc2c8fd52d7ddcf19ad9c8c64be77a445"
+
+[[files]]
+file = "emotes/club penguin dance.emotecraft"
+hash = "913116a2b25ac304e495d37b66e574af2441cdcaf383d351cd0656f93152d20a"
+
+[[files]]
+file = "emotes/stock dance.emotecraft"
+hash = "624f70dfcfdb6a42be4f12553a18bf49e673eee132c2a75e136ba440d5300f8d"
 
 [[files]]
 file = "icon.png"
@@ -1975,6 +2191,11 @@ hash = "e7a682a577780a52963a998f6941c13cbd75455a65368e9b665c56efca37cbb6"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "135837201d4c30811971e630e957867397b995e6803ff75754d510bf1b4fe8fc"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "5c1b16bbf2308c87c81a713cac4b2e6c6796e854d5133281c759759375e02d94"
 metafile = true
@@ -2666,6 +2887,11 @@ hash = "e9866b0c25356a08c95b0e1df0473c04d9b0c0f3008b2d97390396133f945b2d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/emotebend.pw.toml"
+hash = "4cde9ffb5655d6b4157974f1cce4851a9f519fc72fc0842be8cf7380dbd7c5ee"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
 hash = "e6b62b91c7851578d463ba7850f65e7b71abf0e25e6c4c783bc5549d3a0a10b5"
 metafile = true
@@ -2703,6 +2929,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/puffradio.pw.toml"
 hash = "67136b4b3501a78cdb6f0e6cc2def80f1fb0e2045561222f6b8fafbd8a0fd30d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spemotes-translations.pw.toml"
+hash = "9dd2d2935269e4bb350c1d0535a37cfda88f89f33a783481a0f3e26f7d57b047"
 metafile = true
 
 [[files]]

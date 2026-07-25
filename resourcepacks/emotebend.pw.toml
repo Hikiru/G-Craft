@@ -1,0 +1,13 @@
+name = "EmoteBend(FreshFace)"
+filename = "EmoteBend(FreshFace).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R7AmfT2N/versions/cGsmIgfi/EmoteBend%28FreshFace%29.zip"
+hash-format = "sha512"
+hash = "bd776a9b2f02cc9c71aca4398d9073177948f77e6db864cde856e62c06b427adf2a67e782b3463d9685b68cbbcd41afab5debc5d0c449a7fadd450b80e98be1a"
+
+[update]
+[update.modrinth]
+mod-id = "R7AmfT2N"
+version = "cGsmIgfi"

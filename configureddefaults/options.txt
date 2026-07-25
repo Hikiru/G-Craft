@@ -12,7 +12,7 @@ screenEffectScale:0.65
 operatorItemsTab:true
 realmsNotifications:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","highlight:highlight_extended","betterbeds:fancyconnectedbeds","continuity:default","continuity:glass_pane_culling_fix","file/Low Fire.zip","file/Comforts Modernized.zip","file/Emissive Cobblemon Ores.zip","cobbreeding:coloredeggs","file/Classic Grass.zip","file/PokeRods3D.zip","file/Canon PC Wallpapers.zip","file/Cobblemon Interface.zip","file/Cobblemon Interface Modded.zip","file/PokeDiscs.zip","file/Original Pokemon Battle Music.zip","file/PuffRadio.zip","file/Fresh Animations.zip","file/Fresh Moves.zip","file/Fresh Icons.zip","vanillabackport:freshly_animated","cobblemon:gyaradosjump","cobblemon:uniqueshinyforms","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","cobblemon:regionbiasforms","file/ATMxMSD RP.zip","file/FullyHisuianStarters RP.zip","file/EeveelutionsReimagined RP.zip","file/OJsAnimations RP.zip","file/PlanetaCobblemon RP.zip","file/GlitchDex RP.zip","file/CavsCobbleMons RP.zip","file/LackingMons RP.zip","file/TDmon RP.zip","file/MelloMons RP.zip","file/MysticMons RP.zip","file/MundialMons RP.zip","file/MissingMons RP.zip","file/HydroReanimodel RP.zip","file/Pokemans RP.zip","file/CobbleMotion RP.zip","file/E19 Cobblemon Minimap Icons.zip","file/COBBLEVERSE Soundtrack.zip","file/COBBLEVERSE RCTmod RP.zip","file/COBBLEVERSE RP.zip","file/Re-covered.zip"]
+resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","highlight:highlight_extended","betterbeds:fancyconnectedbeds","continuity:default","continuity:glass_pane_culling_fix","file/Low Fire.zip","file/Comforts Modernized.zip","file/Emissive Cobblemon Ores.zip","cobbreeding:coloredeggs","file/Classic Grass.zip","file/PokeRods3D.zip","file/Canon PC Wallpapers.zip","file/Cobblemon Interface.zip","file/Cobblemon Interface Modded.zip","file/PokeDiscs.zip","file/Original Pokemon Battle Music.zip","file/PuffRadio.zip","file/Fresh Animations.zip","file/Fresh Moves.zip","file/Fresh Icons.zip","vanillabackport:freshly_animated","cobblemon:gyaradosjump","cobblemon:uniqueshinyforms","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","cobblemon:regionbiasforms","file/ATMxMSD RP.zip","file/FullyHisuianStarters RP.zip","file/EeveelutionsReimagined RP.zip","file/OJsAnimations RP.zip","file/PlanetaCobblemon RP.zip","file/GlitchDex RP.zip","file/CavsCobbleMons RP.zip","file/LackingMons RP.zip","file/TDmon RP.zip","file/MelloMons RP.zip","file/MysticMons RP.zip","file/MundialMons RP.zip","file/MissingMons RP.zip","file/HydroReanimodel RP.zip","file/Pokemans RP.zip","file/CobbleMotion RP.zip","file/E19 Cobblemon Minimap Icons.zip","file/COBBLEVERSE Soundtrack.zip","file/COBBLEVERSE RCTmod RP.zip","file/COBBLEVERSE RP.zip","file/Re-covered.zip","file/SPEMOTES_TRANSLATIONS_v1.1.zip","file/EmoteBend(FreshFace).zip"]
 chatHeightFocused:0.44082856514084506
 chatHeightUnfocused:0.2537687059859155
 skipMultiplayerWarning:true
@@ -75,6 +75,7 @@ key_key.cobblemon-battle-extras.battle_logs:key.keyboard.unknown
 key_key.cobblemonraiddens.mouse:key.keyboard.right.control
 key_key.cobblemonraiddens.accept:key.keyboard.f6
 key_key.cobblemonraiddens.deny:key.keyboard.f7
+key_key.emotecraft.fastchoose:key.keyboard.y
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fightorflight.startbattle:key.keyboard.g
 key_key.fightorflight.moveslot1:key.keyboard.unknown
@@ -158,4 +159,4 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_music:0.2
-modelPart_cape:false
+modelPart_cape:true
