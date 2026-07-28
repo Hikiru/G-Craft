@@ -1,0 +1,70 @@
+{
+  "config_version": 4,
+  "loadbuiltin": true,
+  "quark": false,
+  "dark": false,
+  "oldChooseWheel": false,
+  "perspective": true,
+  "default3rdPersonFront": true,
+  "showicon": true,
+  "enableNSFW": false,
+  "alwaysOpenScreen": false,
+  "debug": true,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "emotesFolderOnLogicalServer": false,
+  "emotesDirectory": "emotes",
+  "autoFixEmoteStop": true,
+  "checkPose": true,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 0.24109165,
+  "yratio": 0.75,
+  "showHiddenConfig": false,
+  "neverRemoveBadIcon": false,
+  "exportBuiltin": false,
+  "hideWarning": false,
+  "fastmenu": {
+    "0": {
+      "0": "0003e65b-7d4c-fda6-0007-dbe16608f550",
+      "1": "000380e8-336f-6323-0007-259d15751807",
+      "2": "0003d661-0480-a7c6-0007-bd6cc3d15bb0",
+      "3": "0003c5bf-dc26-1a4e-0007-a1423c424d48",
+      "4": "00038295-1ba8-9740-0007-2d5a72f1ae9e",
+      "5": "0003bc86-1958-11d6-0007-8d1480e10de0",
+      "6": "0003b9cd-abe3-7174-0007-86103e36d63a",
+      "7": "0003b3ab-cb5d-beeb-0007-8248f2b3d55f"
+    },
+    "1": {
+      "0": "000390d0-c57a-ff0c-0007-4733b278cd02",
+      "1": "0003cddf-1ed2-6fde-0007-af118eb421f8",
+      "2": "00038eda-d321-dd4c-0007-42f1bd50b7c2",
+      "3": "0003bfdc-399f-9fb9-0007-97c0af113d49",
+      "4": "0003d0e7-ee66-7848-0007-b4bc33390bb6",
+      "5": "0003c467-f48e-e2fe-0007-98abade52358",
+      "6": "0003b9ae-d5d9-64fa-0007-8729b515ec4c",
+      "7": "00039d31-acaa-b7d5-0007-5b65c1a9309d"
+    },
+    "2": {
+      "0": "00038aaf-a10d-79bb-0007-3cd0fe2fe9cf",
+      "1": "0003c0b5-cf2f-5404-0007-985d50f991ea",
+      "2": "437c79b9-4b32-4f79-a6b0-b81d15dbef7f",
+      "3": "5489e596-0000-0000-0000-000000000000",
+      "4": "1fac5d45-0000-0000-0000-000000000000",
+      "5": "00036437-14a8-0a81-0006-f48a2260e7a1",
+      "6": "0003a846-24ab-36e0-0007-6e20b817d57e",
+      "7": "91c47df9-0000-0000-0000-000000000000"
+    },
+    "3": {
+      "0": "000384df-cf64-37d0-0007-289751a5244e",
+      "1": "00039147-e58c-0480-0007-45d663e6065e",
+      "2": "0003be72-75db-950d-0007-945f298f5e45",
+      "3": "0003dda9-5ef5-58c2-0007-c864f75971a4",
+      "4": "0003b566-3b07-6774-0007-81fb1d52383a",
+      "5": "ebfb1e69-330a-4970-8bca-f5625c90681a",
+      "6": "0f36b40a-4cd0-4a25-a416-e1d04b244be7",
+      "7": "0003d655-3d30-478a-0007-b66d3e4da7fc"
+    }
+  },
+  "keys": {}
+}
